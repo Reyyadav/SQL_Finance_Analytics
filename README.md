@@ -1,7 +1,7 @@
 # SQL_Finance_Analytics
 
 ## Problem Statement:
-### As the product owner for Croma India, there is a need to generate a comprehensive sales report for individual products aggregated on a monthly basis for the fiscal year 2021. The purpose of this report is to track and analyze the sales performance of each product, enabling further analysis and decision-making. The report should be exportable to Excel and include the following fields:
+### As the product owner, there is a need to generate a comprehensive sales report for individual products aggregated on a monthly basis for the fiscal year 2021. The purpose of this report is to track and analyze the sales performance of each product, enabling further analysis and decision-making. The report should be exportable to Excel and include the following fields:
 
 Month: The month in which the sales occurred.
 Product: The name or code of the product.
